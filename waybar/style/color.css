@@ -1,0 +1,39 @@
+#pulseaudio,
+#temperature {
+  color: @blue;
+}
+
+#workspaces button.urgent,
+#language,
+#memory {
+  color: @red;
+}
+
+#workspaces button.active {
+  color: @sky;
+}
+
+#cpu {
+  color: @teal;
+}
+
+#clock,
+#window {
+  color: @peach;
+}
+
+#custom-logo {
+  color: @mauve;
+}
+
+#workspaces button {
+  color: @lavender;
+}
+
+#disk {
+  color: @green;
+}
+
+tooltip {
+  color: @text;
+}

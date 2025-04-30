@@ -1,0 +1,17 @@
+{
+  "group/hardware": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-duration": 1000,
+      "children-class": "not-memory",
+      "transition-left-to-left": false
+    },
+    "modules": [
+      "custom/logo",
+      "cpu",
+      "memory",
+      "disk",
+      "temperature",
+    ],
+  },
+},

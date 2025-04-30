@@ -1,0 +1,12 @@
+@import "style/mocha.css";
+@import "style/color.css";
+@import "style/background.css";
+@import "style/border.css";
+@import "style/padding.css";
+@import "style/margin.css";
+
+* {
+  font-family: "JetBrainsMono Nerd Font Bold";
+  font-weight: 600;
+  font-size: 23px;
+}

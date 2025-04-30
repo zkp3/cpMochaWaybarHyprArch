@@ -1,0 +1,14 @@
+{
+  "modules-left": [
+    "group/hardware",
+    "hyprland/window",
+  ],
+  "modules-center": [
+    "hyprland/workspaces",
+  ],
+  "modules-right": [
+    "group/audioandlang",
+    "clock",
+    "tray",
+  ],
+},

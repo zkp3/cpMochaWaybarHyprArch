@@ -1,0 +1,17 @@
+window,
+tooltip,
+#hardware,
+#clock,
+#tray,
+#window,
+#workspaces,
+#workspaces button.active,
+button,
+#workspaces button:hover {
+  border-radius: 15px;
+}
+
+#pulseaudio,
+#audioandlang {
+  border-radius: 15px;
+}

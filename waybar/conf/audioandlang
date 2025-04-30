@@ -1,0 +1,9 @@
+{
+  "group/audioandlang": {
+    "orientation": "inherit",
+    "modules": [
+      "pulseaudio",
+      "hyprland/language",
+    ],
+  },
+},

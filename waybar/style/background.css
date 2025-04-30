@@ -1,0 +1,25 @@
+window {
+  background: @base;
+}
+
+#workspaces button.urgent {
+  background: transparent;
+}
+
+#workspaces button.active,
+#workspaces button:hover,
+#clock:hover,
+#pulseaudio:hover,
+button:hover {
+  background: @surface2;
+}
+
+#audioandlang,
+tooltip,
+#tray,
+#clock,
+#hardware,
+#window,
+#workspaces {
+  background: @surface0;
+}

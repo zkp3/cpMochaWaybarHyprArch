@@ -1,0 +1,18 @@
+#custom-logo,
+#hardware,
+#tray,
+#workspaces button,
+#disk,
+#temperature,
+#cpu,
+#memory,
+#pulseaudio,
+#window,
+#clock,
+#language {
+  padding: 0 10px;
+}
+
+#workspaces button.active {
+  padding: 0 50px;
+}

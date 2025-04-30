@@ -1,0 +1,13 @@
+.modules-left,
+.modules-right,
+.modules-center {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.modules-right {
+  margin-right: 5px;
+}
+.modules-left {
+  margin-left: 5px;
+}

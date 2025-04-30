@@ -1,2 +1,2 @@
 # catppuccin_mocha_waybar_config
-Не готово
+Catppuccin Mocha Theme For Waybar!

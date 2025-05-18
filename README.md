@@ -1,6 +1,6 @@
 # catppuccinMochaWaybarHypr
 ## Catppuccin Mocha Theme For Waybar!
-### Need to install Fonts: Ubuntu Fonts; JetBrainsMono Fonts; Noto Fonts Emoji; Font Awesome.
+### Need to install Fonts: Ubuntu Fonts Emoji; JetBrainsMono Fonts; Noto Fonts Emoji; Font Awesome.
 
 ![20250430_22h53m11s_grim](https://github.com/user-attachments/assets/96e8fbf1-9387-4fd2-ac3d-7c38100c2f4e)
 ![20250430_22h34m58s_grim](https://github.com/user-attachments/assets/ba8a0065-4bd3-4ea2-b65b-7c0d580807af)

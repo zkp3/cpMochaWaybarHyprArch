@@ -13,6 +13,10 @@
   padding: 0 10px;
 }
 
+#custom-logo,
+#hardware{
+  padding: 0 10 0 10px;
+}
 #workspaces button.active {
   padding: 0 50px;
 }

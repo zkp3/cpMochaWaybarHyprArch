@@ -1,9 +1,11 @@
 # catppuccinMochaWaybarHypr
 ## Catppuccin Mocha Theme For Waybar!
-### Need to install Fonts: Ubuntu Fonts Emoji; JetBrainsMono Fonts; Noto Fonts Emoji; Font Awesome.
+### Need to install Fonts: Ubuntu Nerd Font; JetBrainsMono Fonts; Noto Fonts Emoji; Font Awesome.
+#### Arch Linux:
+```bash
+sudo pacman -S ttf-font-awesome ttf-jetbrains-mono noto-fonts-emoji ttf-ubuntu-mono-nerd
+```
+![20250520_16h13m48s_grim](https://github.com/user-attachments/assets/2b9826a7-d075-43a4-a206-0c1e6e5c11a9)
+![20250520_16h15m45s_grim](https://github.com/user-attachments/assets/7da651bb-2a22-458e-88bb-e9dfb8d899f9)
+![20250520_16h16m22s_grim](https://github.com/user-attachments/assets/5b246834-3675-43e1-ba6b-e8f4a8c34072)
 
-![20250430_22h53m11s_grim](https://github.com/user-attachments/assets/96e8fbf1-9387-4fd2-ac3d-7c38100c2f4e)
-![20250430_22h34m58s_grim](https://github.com/user-attachments/assets/ba8a0065-4bd3-4ea2-b65b-7c0d580807af)
-![20250430_22h35m04s_grim](https://github.com/user-attachments/assets/4256395f-2320-43e1-9c5a-a2a655c7c2bc)
-![20250430_22h35m13s_grim](https://github.com/user-attachments/assets/3b709c97-2c54-4a4b-ae62-8cec5cd9fa9f)
-![20250430_22h35m34s_grim](https://github.com/user-attachments/assets/c162b062-67a3-485a-b612-8b2ff2e946f8)

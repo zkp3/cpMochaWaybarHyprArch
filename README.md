@@ -3,7 +3,7 @@
 ### Need to install Fonts: Ubuntu Nerd Font; JetBrainsMono Fonts; Noto Fonts Emoji; Font Awesome; JetBrainsMono Nerd Font
 #### Arch Linux:
 ```bash
-sudo pacman -S ttf-font-awesome ttf-jetbrains-mono noto-fonts-emoji ttf-ubuntu-mono-nerd ttf-jetbrains-mono-nerd 3.4.0-1
+sudo pacman -S ttf-font-awesome ttf-jetbrains-mono noto-fonts-emoji ttf-ubuntu-mono-nerd ttf-jetbrains-mono-nerd
 ```
 ![20250520_16h13m48s_grim](https://github.com/user-attachments/assets/2b9826a7-d075-43a4-a206-0c1e6e5c11a9)
 ![20250520_16h15m45s_grim](https://github.com/user-attachments/assets/7da651bb-2a22-458e-88bb-e9dfb8d899f9)

@@ -1,7 +1,7 @@
 # catppuccinMochaWaybarHypr
 ## Catppuccin Mocha Theme For Waybar!
 ### Need to install Fonts: Ubuntu Nerd Font; JetBrainsMono Fonts; Noto Fonts Emoji; Font Awesome; JetBrainsMono Nerd Font
-#### Arch Linux:
+#### Pacman(Arch Linux):
 ```bash
 sudo pacman -S ttf-font-awesome ttf-jetbrains-mono noto-fonts-emoji ttf-ubuntu-mono-nerd ttf-jetbrains-mono-nerd
 ```
